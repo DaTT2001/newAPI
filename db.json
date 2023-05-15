@@ -1,16 +1,4 @@
 {
   "todos": [
-    {
-      "id": "lhh3nmcdyfg3g3",
-      "title": "quét nhà",
-      "isCompleted": false,
-      "isActive": true
-    },
-    {
-      "id": "lhh58drt48cx5z",
-      "title": "rửa bát",
-      "isCompleted": false,
-      "isActive": true
-    }
   ]
 }
